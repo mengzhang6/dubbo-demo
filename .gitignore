@@ -71,3 +71,4 @@ $RECYCLE.BIN/
 /dubbo-demo-provider/.project
 /dubbo-demo-provider/.settings
 /dubbo-demo-provider/target
+/.classpath
